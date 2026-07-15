@@ -1,0 +1,6 @@
+{
+  "name": "NYC Interactive Map",
+  "description": "An interactive, elegant, and minimal map of New York City's neighborhoods and landmarks, featuring search navigation, filterable views, and a dedicated dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
